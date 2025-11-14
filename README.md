@@ -1,7 +1,6 @@
 #  SBIN Stock Price Prediction Using LSTM
 
-This project predicts the future stock prices of SBI (SBIN.NS) using a Long Short-Term Memory (LSTM) neural network.
-The model is trained on historical Close prices sourced from Yahoo Finance and provides both evaluation on test data and future forecasting.
+This project predicts the future stock prices of SBI (SBIN.NS) using a Long Short-Term Memory (LSTM) neural network.Uses the Yahoo Finance API through the yfinance Python package to collect real-time and historical stock market data. 
 
 *The workflow includes:*
 * Data collection using Yahoo Finance
