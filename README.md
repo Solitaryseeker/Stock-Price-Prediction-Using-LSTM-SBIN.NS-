@@ -21,4 +21,8 @@ The dataset is downloaded using the yfinance library:
 The data is stored into a CSV file for further processing.
 Dataset is also saved as a CSV for reuse.
 
-![](static/candlestick_chart.png)
+# candlestick chat of SBIN.NS 
+![SBIN.NS](static/candlestick_chart.png)
+
+# Actual vs Predicted Values 
+![](static/Actual vs Predicted Values.png)
