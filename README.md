@@ -23,6 +23,6 @@ Dataset is also saved as a CSV for reuse.
 
 # candlestick chat of SBIN.NS 
 ![SBIN.NS](static/candlestick_chart.png)
-[Download](static/candlestick_chart.png)
+[Download](static/candlestick_chat.html)
 
 
