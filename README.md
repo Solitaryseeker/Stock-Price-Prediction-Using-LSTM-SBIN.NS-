@@ -21,4 +21,4 @@ The dataset is downloaded using the yfinance library:
 The data is stored into a CSV file for further processing.
 Dataset is also saved as a CSV for reuse.
 
-<img width="700" height="500" alt="candlestick_chart" src="https://github.com/user-attachments/assets/b5313b73-c84d-4c8a-b607-b50ef3eb521a" />
+![](static/candlestick_chart.png)
